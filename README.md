@@ -1,4 +1,4 @@
-download master and export with winrar
+download master and export with winrar or other unzipper
 
 ensure all folders are there
 
